@@ -11,9 +11,9 @@ O sistema também deve manter um registro histórico dos atendimentos realizados
 - [ ]	Atender próximo paciente com maior prioridade
 - [ ]	Visualizar fila de espera atual por ordem de prioridade
 - [ ] Gerar relatório de atendimentos com:
-a. Pacientes atendidos por prioridade
-b. Tempo médio de espera por categoria
-c. Total de pacientes por cor/nível de risco
+- a. Pacientes atendidos por prioridade
+- b. Tempo médio de espera por categoria
+- c. Total de pacientes por cor/nível de risco
 
 ## Estruturas de Dados Utilizadas
 
